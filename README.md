@@ -1,6 +1,6 @@
 # 🔮 Glassmorphic Web Calculator
 
-A sleek, beautiful, responsive web calculator designed with modern **Glassmorphism** UI principles. This project is built entirely using frontend technologies: HTML, CSS, and vanilla JavaScript. 
+A sleek, beautiful, responsive web calculator designed with modern **Glassmorphism** UI principles. This project is built entirely using frontend technologies: HTML, CSS. 
 
 ✨ **[Live Demo]**
     **(https://ganesh-nandam.github.io/my-calculator/)**
